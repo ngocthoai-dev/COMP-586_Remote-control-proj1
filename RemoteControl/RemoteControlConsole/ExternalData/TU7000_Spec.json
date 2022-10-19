@@ -1,0 +1,436 @@
+[
+	{
+		"Id": "TV_75U7000",
+		"Model": "UN75TU7000",
+		"OrderCode": "UN75TU7000FXZA",
+		"ScreenSizeClass": 75,
+		"ScreenDiagonalMesurement": 74.5,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	},
+	{
+		"Id": "TV_70U7000",
+		"Model": "UN70TU7000",
+		"OrderCode": "UN70TU7000FXZA",
+		"ScreenSizeClass": 70,
+		"ScreenDiagonalMesurement": 69.5,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	},
+	{
+		"Id": "TV_65U7000",
+		"Model": "UN65TU7000",
+		"OrderCode": "UN65TU7000FXZA",
+		"ScreenSizeClass": 65,
+		"ScreenDiagonalMesurement": 64.5,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	},
+	{
+		"Id": "TV_58U7000",
+		"Model": "UN58TU7000",
+		"OrderCode": "UN58TU7000FXZA",
+		"ScreenSizeClass": 58,
+		"ScreenDiagonalMesurement": 57.5,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	},
+	{
+		"Id": "TV_55U7000",
+		"Model": "UN55TU7000",
+		"OrderCode": "UN55TU7000FXZA",
+		"ScreenSizeClass": 55,
+		"ScreenDiagonalMesurement": 54.6,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	},
+	{
+		"Id": "TV_50U7000",
+		"Model": "UN50TU7000",
+		"OrderCode": "UN50TU7000FXZA",
+		"ScreenSizeClass": 50,
+		"ScreenDiagonalMesurement": 49.5,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	},
+	{
+		"Id": "TV_43U7000",
+		"Model": "UN43TU7000",
+		"OrderCode": "UN43TU7000FXZA",
+		"ScreenSizeClass": 43,
+		"ScreenDiagonalMesurement": 42.5,
+		"UPCCode": "887276400082",
+		"CountryOfOrigin": "Mexico",
+		"Dimensions": {
+			"Description": "(INCHES W x H x D)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"W": 65.9,
+					"H": 37.7,
+					"D": 2.4
+				},
+				{
+					"Name": "TV WITH STAND",
+					"W": 65.9,
+					"H": 41.1,
+					"D": 13.4
+				},
+				{
+					"Name": "SHIPPING",
+					"W": 72.4,
+					"H": 44,
+					"D": 7.8
+				},
+				{
+					"Name": "STAND FOOTPRINT",
+					"W": 2.2,
+					"H": 6.9,
+					"D": 13.4
+				}
+			]
+		},
+		"Weights": {
+			"Description": "(LB)",
+			"Datas": [
+				{
+					"Name": "TV WITHOUT STAND",
+					"Weight": 67
+				},
+				{
+					"Name": "TV WITH STAND",
+					"Weight": 67.9
+				},
+				{
+					"Name": "SHIPPING",
+					"Weight": 107.6
+				}
+			]
+		},
+		"VESASupport": "Yes (400 x 400)",
+		"AccessoriesIncludedInBox": [
+			{
+				"Name": "Remote Model",
+				"Value": "TM-1240A"
+			}
+		]
+	}
+]
